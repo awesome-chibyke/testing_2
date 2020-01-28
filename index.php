@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,3 +11,9 @@
     <h1>MOVES LIKE JAGGAR!!!</h1>
 </body>
 </html>
+
+<?php
+
+$sunex = 'am learning how to use git';
+echo $sunex;
+
