@@ -7,9 +7,11 @@
     }
 
 
+
     function isGood($who){
         return $me = $who;
     }
+
 
     function git_commads(){
         $command_arrays = array('git init', 'git commit', 'git push', 'git pull');
