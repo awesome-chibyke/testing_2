@@ -6,6 +6,9 @@
         return hash($salt, md5($password));
     }
 
+    function isGood($who){
+        return $me = $who;
+    }
 ?>
 
 <!DOCTYPE html>
